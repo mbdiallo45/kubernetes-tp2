@@ -1,0 +1,11 @@
+.ansible/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.gitconfig
+.kube/
+.minikube/
+.ssh/
+.vbox_version
+get-docker.sh
